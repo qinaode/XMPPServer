@@ -1,0 +1,15 @@
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\XMPPWindowsForm.exe
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\XMPPWindowsForm.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\agsXMPP.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\ZK.Commander.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\ZK.Model.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\ZK.XMPPConnection.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\ZK.Commander.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\ZK.Model.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\bin\Debug\ZK.XMPPConnection.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\obj\x86\Debug\XMPPWindowsForm.csprojResolveAssemblyReference.cache
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\obj\x86\Debug\XMPPWindowsForm.Form1.resources
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\obj\x86\Debug\XMPPWindowsForm.Properties.Resources.resources
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\obj\x86\Debug\XMPPWindowsForm.csproj.GenerateResource.Cache
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\obj\x86\Debug\XMPPWindowsForm.exe
+C:\DotNet\Study\ZK.PushFrameWork\XMPPWindowsForm\obj\x86\Debug\XMPPWindowsForm.pdb

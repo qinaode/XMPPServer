@@ -1,0 +1,15 @@
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\XMPPServer.exe
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\XMPPServer.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\ZK.Commander.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\ZK.Model.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\ZK.XMPPConnection.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\agsXMPP.dll
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\ZK.Commander.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\ZK.Model.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\bin\Debug\ZK.XMPPConnection.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\obj\x86\Debug\XMPPServer.csprojResolveAssemblyReference.cache
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\obj\x86\Debug\XMPPServer.ProjectInstaller.resources
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\obj\x86\Debug\XMPPServer.csproj.GenerateResource.Cache
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\obj\x86\Debug\XMPPServer.exe
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\obj\x86\Debug\XMPPServer.pdb
+C:\DotNet\Study\ZK.PushFrameWork\XMPPServer\obj\x86\Debug\XMPPServer.XMPPServer.resources

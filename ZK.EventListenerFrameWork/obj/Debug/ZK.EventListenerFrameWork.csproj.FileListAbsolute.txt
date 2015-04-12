@@ -1,0 +1,4 @@
+C:\DotNet\Study\ZK.PushFrameWork\ZK.EventListenerFrameWork\bin\Debug\ZK.EventListenerFrameWork.dll
+C:\DotNet\Study\ZK.PushFrameWork\ZK.EventListenerFrameWork\bin\Debug\ZK.EventListenerFrameWork.pdb
+C:\DotNet\Study\ZK.PushFrameWork\ZK.EventListenerFrameWork\obj\Debug\ZK.EventListenerFrameWork.dll
+C:\DotNet\Study\ZK.PushFrameWork\ZK.EventListenerFrameWork\obj\Debug\ZK.EventListenerFrameWork.pdb

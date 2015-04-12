@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Vendor/libidn
+END
+stringprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Vendor/libidn/stringprep.h
+END
+build-libidn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Vendor/libidn/build-libidn.sh
+END
+idn-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Vendor/libidn/idn-int.h
+END

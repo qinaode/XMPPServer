@@ -1,0 +1,8 @@
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\bin\Debug\ZK.XMPPConnection.dll
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\bin\Debug\ZK.XMPPConnection.pdb
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\bin\Debug\agsXMPP.dll
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\obj\Debug\ZK.XMPPConnection.dll
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\obj\Debug\ZK.XMPPConnection.pdb
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\bin\Debug\ZK.Model.dll
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\bin\Debug\ZK.Model.pdb
+C:\DotNet\Study\ZK.PushFrameWork\ZK.XMPPConnection\obj\Debug\ZK.XMPPConnection.csprojResolveAssemblyReference.cache

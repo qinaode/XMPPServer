@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities
+END
+RFImageToDataTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/RFImageToDataTransformer.h
+END
+XMPPIDTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/XMPPIDTracker.h
+END
+GCDMulticastDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/GCDMulticastDelegate.h
+END
+RFImageToDataTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/RFImageToDataTransformer.m
+END
+XMPPSRVResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/XMPPSRVResolver.h
+END
+XMPPIDTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/XMPPIDTracker.m
+END
+XMPPStringPrep.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/XMPPStringPrep.h
+END
+DDList.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/DDList.h
+END
+GCDMulticastDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/GCDMulticastDelegate.m
+END
+XMPPSRVResolver.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/XMPPSRVResolver.m
+END
+XMPPStringPrep.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/XMPPStringPrep.m
+END
+DDList.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/WLKT/!svn/ver/546/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Utilities/DDList.m
+END

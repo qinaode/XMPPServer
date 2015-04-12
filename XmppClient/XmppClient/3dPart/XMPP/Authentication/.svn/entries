@@ -1,0 +1,86 @@
+10
+
+dir
+546
+https://zhuqingyu@code.hoolian.cn/svn/WLKT/trunk/ZK.IOS/wlkt_teacher/wlkt/lib/XMPP/Authentication
+https://zhuqingyu@code.hoolian.cn/svn/WLKT
+
+
+
+2014-12-29T07:22:59.004655Z
+546
+zhuqingyu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a27d5d56-3fb7-d24a-8142-d862ee720e00
+
+X-Facebook-Platform
+dir
+
+Deprecated-Plain
+dir
+
+X-OAuth2-Google
+dir
+
+Digest-MD5
+dir
+
+Plain
+dir
+
+Anonymous
+dir
+
+SCRAM-SHA-1
+dir
+
+Deprecated-Digest
+dir
+
+XMPPSASLAuthentication.h
+file
+
+
+
+
+2014-07-09T07:47:06.000000Z
+17d8a6341cc3588fa55a4958d7e4449d
+2014-12-29T07:22:59.004655Z
+546
+zhuqingyu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3525
+
